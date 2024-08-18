@@ -1,0 +1,16 @@
+path: /home/mahak/Desktop/Development/ppe-detection/datasets_ppe_model
+train: images
+val: images
+
+# Classes
+names:
+  0: person
+  1: hard-hat
+  2: gloves
+  3: mask
+  4: glasses
+  5: boots
+  6: vest
+  7: ppe-suit
+  8: ear-protector
+  9: safety-harness

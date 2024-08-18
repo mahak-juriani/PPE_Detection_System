@@ -1,0 +1,7 @@
+path: /home/mahak/Desktop/Development/ppe-detection/datasets
+train: images
+val: images
+
+# Classes
+names:
+  0: person
